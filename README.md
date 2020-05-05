@@ -28,8 +28,12 @@
 从图中可以发现：cnn+lstm做出来的模型其实没有单独的lstm的好，这有可能是我复现别人论文的时候，没有设计好，和论文作者想的有点差别。
 
 还有一点就是，本实验都是采用词向量，没有论文里面的句向量，也没有用单词索引或者TFIDF,词向量用google的word2vec做的。这也是导致实验结果和论文说的有差别的原因之一！
-=======
+
+
+
 # cnn_tf 文件夹里面的实验结果
+
+
 Step 1, Minibatch validation Loss= 332.2242, Minibatch train Loss=418.1009, validation Accuracy= 0.481,train Accuracy = 0.480
 
 Step 2000, Minibatch validation Loss= 1.1952, Minibatch train Loss=0.6876, validation Accuracy= 0.676,train Accuracy = 0.720
