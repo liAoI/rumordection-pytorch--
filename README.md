@@ -3,7 +3,7 @@
 
 所使用数据集来自论文https://www.ijcai.org/Proceedings/16/Papers/537.pdf里面的。
 
-后续所有实现的代码我都会放到这个地址上：https://github.com/liAoI/rumorDetection  请小伙伴们赐教！
+后续所有实现的代码我都会放到这个地址上：https://github.com/liAoI/rumorDetection  
 
 下图为普通RNN（lstm）跑出来的结果：
 
